@@ -1,4 +1,10 @@
 # hangman
+
+#### 1.Download the file.
+
+#### 2.Start the game by typing "ruby hangman.rb" in your terminal.
+
+
 Hangman - word guessing game written in Ruby.
 
 
